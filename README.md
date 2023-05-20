@@ -1,5 +1,6 @@
-[![MasterHead](https://github.com/garygarygg/garygarygg/blob/main/back/gary.png)](https://github.com/garygarygg)
-
+<p align="center">
+  <a href="https://github.com/garygarygg">
+    <img src="https://github.com/garygarygg/garygarygg/blob/main/back/gary.png"/></p>
 <!--
 **garygarygg/garygarygg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
